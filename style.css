@@ -100,3 +100,8 @@ body.dark .orbit { border-color: #373258; }
   .skills-grid { grid-template-columns: 1fr; }
   .hero-actions { flex-wrap: wrap; }
 }
+.project-card > .button {
+  display: flex;
+  width: fit-content;
+  margin-top: 25px;
+}
